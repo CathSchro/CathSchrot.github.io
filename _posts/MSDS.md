@@ -1,0 +1,31 @@
+---
+layout: post
+title: Masters in Data Science
+subtitle: Ciriculum for program through Bellevue University
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [ciriculum]
+author: Caitie Schrotberger
+---
+
+### DSC 500 Introduction to Data Science
+This course introduces the possibilities, history, and ethics surrounding Data Science. Basics of data science are explored, including vocabulary, programming languages, big data frameworks, visualization, and statistics. Prior programming experience is not needed for this course.
+### DSC 510 Introduction to Programming
+This course introduces the Python programming language as a tool to clean, slice, and build tools to analyze an existing dataset. Basic principles of programming are explored as well as techniques for configuring a computer for data science work. Prerequisite: Recommend DSC 500
+### DSC 520 Statistics for Data Science
+The R programming language and software environment is commonly used to explore all types of data. Using R, students perform statistical tests on the data. Report writing and presentation of data are introduced. Prerequisite: Recommend DSC 500
+### DSC 530 Data Exploration and Analysis
+This course introduces complex techniques needed for profiling and exploring data. Students use programming and statistics-based inference to ask and answer insightful questions of data. Prerequisite: Recommend DSC 510 and DSC 520
+### DSC 540 Data Preparation
+Much like life, the data humans produce is infinitely variable in its structure, presentation, and scale. This course prepares students for this infinite variety of data. Students use Python, SQL, and other tools to acquire, prepare, clean, and automate dataset creation. Prerequisite: DSC 510 or equivalent and recommend DSC 530
+### DSC 550 Data Mining
+Data can often contain patterns and anomalies that only emerge at large scale. In this course, you will import, clean, manipulate, visualize, analyze, and model structured and unstructured data to extract this information. Model building topics covered include text sentiment analysis, regression, classification, and neural networks. Furthermore, you will learn how to perform feature dimensionality reduction and tune model hyperparameters. The knowledge learned in this course culminates in a term project. Prerequisite: Recommend DSC 540
+### DSC 630 Predictive Analytics
+This course assembles topics covered in previous courses into an applied project. Students have the opportunity to find, clean, analyze, and report on a project they define. Advanced methods of analysis using Python and R allow students to delve deeper into their projects. Prerequisite: DSC 540 or equivalent and recommend DSC 550
+### DSC 640 Data Presentation and Visualization
+Data scientists should be great storytellers, whether using visual, text, or other means. In this course, students explore the basic storytelling components of data science and apply them to different types of data for different types of clients and audiences. Presentation techniques, language use for different audiences, and visualization tools techniques are included. Prerequisite: Recommend DSC 630
+### DSC 670 Advanced Uses of Generative AI
+Generative Artificial Intelligence (GAI) is arguably one of the most transformative developments in information technology history. With uses of GAI ranging from creating essays to generating entire videos, this technology affects every industry, directly or indirectly. This course prepares students for GAI by showing how to apply it, delving into how large language models (LLMs) can work with text, and how images can be created and manipulated using GAI. Students will also explore prompt engineering, retrieval augmented generation, and model turning, which is how GAI is used, grounded in truth, and altered for specific uses. Finally, the course teaches students how to deploy custom LLMs, and how to architect and build applications around LLMs. Prerequisites: DSC 630 Predictive Analytic
+### DSC 680 Applied Data Science
+In the final course of the Data Science program, students will conduct several data science projects from origin to presentation. Students will gather data, then prepare, clean, analyze, and present their analysis to an audience. Prerequisite: Completion of all other required DSC courses
