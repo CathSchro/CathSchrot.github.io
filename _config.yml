@@ -21,9 +21,7 @@ author: Catherine Schrotberger
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
-    - Gas Tax Impact on Sales: "https://github.com/CathSchro/cathschrot.github.io/tree/master/Gas%20Tax%20Impact%20on%20Sales"
-    - Increating Graduation Rates: "https://github.com/CathSchro/cathschrot.github.io/tree/master/Increasing%20Graduation%20Rates"
+  Projects: "projects.md
   
 
 ################
