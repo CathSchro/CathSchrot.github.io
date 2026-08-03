@@ -2,9 +2,9 @@
 layout: post
 title: Degree Projects
 subtitle: What I did 
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/dataprojects.png
 thumbnail-img: /assets/img/dataprojects.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/dataprojects.png
 tags: [ciriculum, projects]
 author: Caitie Schrotberger
 ---
