@@ -4,15 +4,11 @@ title: Projects
 permalink: /projects/
 ---
 
-Welcome to my project portfolio. Below are links to documents, reports, and embedded files.
+# Projects
 
-## Project Documents
+Below are my current projects. Click any project to view its description and embedded files.
 
-- [Project Overview PDF](assets/projects/overview.pdf)
-- [Data Analysis Report](assets/projects/data-report.pdf)
-- [Presentation Slides](assets/projects/slides.pdf)
+## Active Projects
 
-## Embedded Example
-
-<iframe src="assets/projects/overview.pdf" width="100%" height="600px">
-</iframe>
+- [Project One: Data Exploration](/projects/project1/)
+- [Project Two: Presentation & Report](/projects/project2/)
