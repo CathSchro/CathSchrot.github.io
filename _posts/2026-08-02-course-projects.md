@@ -15,9 +15,7 @@ Please see the Project section in the header of this page.
 ## The End of the COVID-19 Pandemic
 
 DSC 500 Introduction to Data Science
-	The summary of the project is to come up a question/theory/topic that you research via multiple sources, including search engine data. You must identify additional data sources, then present your findings to your peers on your analysis process. 
-
-	The project does not require you to complete or actually prove out the theory or answer the question, but you will gain experience asking the questions necessary and starting the research required in order to complete the project. 
+	The summary of the project is to come up a question/theory/topic that you research via multiple sources, including search engine data. You must identify additional data sources, then present your findings to your peers on your analysis process. The project does not require you to complete or actually prove out the theory or answer the question, but you will gain experience asking the questions necessary and starting the research required in order to complete the project. 
 
 ## COVID-19 High Risk Patients
 
