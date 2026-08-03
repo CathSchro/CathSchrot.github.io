@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project One: The End of the COVID-19 Pandemic
+title: The End of the COVID-19 Pandemic
 permalink: /projects/project1/
 ---
 
