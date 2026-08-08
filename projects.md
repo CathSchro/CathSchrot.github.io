@@ -14,7 +14,7 @@ Below are my current projects. Click any project to view its description and emb
 - [COVID-19 High Risk Patients](/cathschrot.github.io/projects/project2/)
 - [Movie Profitability](/cathschrot.github.io/projects/project3/)
 - [Women's Volleyball](/cathschrot.github.io/projects/project4/)
-- [Increating Graduation Ratesw](/cathschrot.github.io/projects/project5/)
+- [Increating Graduation Rates](/cathschrot.github.io/projects/project5/)
 - [White House Visitors Logs](/cathschrot.github.io/projects/project6/)
 - [Gas Tax Impact on Sales and Prices](/cathschrot.github.io/projects/project7/)
 - [Recipe Generator](/cathschrot.github.io/projects/project8/)
