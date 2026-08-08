@@ -8,5 +8,5 @@ This project used public data to evalute the policies and changes that came at t
 
 
 ### Project Paper
-[Download the project paper](/cathschrot.github.io/projects/project2/report.pdf)
-<iframe src="/cathschrot.github.io/projects/project2/report.pdf" width="100%" height="600px"></iframe>
+[Download the project paper](/cathschrot.github.io/projects/project2/report2.pdf)
+<iframe src="/cathschrot.github.io/projects/project2/report2.pdf" width="100%" height="600px"></iframe>
