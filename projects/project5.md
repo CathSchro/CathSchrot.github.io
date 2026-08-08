@@ -9,8 +9,8 @@ This data mining project used public data to prepared data for model building.  
 
 ### Project Paper
 [Download the project paper](/cathschrot.github.io/projects/project5/Increasing Graduation Rates Paper.docx)
-<iframe src="/cathschrot.github.io/projects/project5/report.pdf" width="100%" height="600px"></iframe>
+<iframe src="/cathschrot.github.io/projects/project5/report5.pdf" width="100%" height="600px"></iframe>
 
 ### Project Code
 [Download the project presentation](/cathschrot.github.io/projects/project5/Increasing Graduation Rates Code.ipynb)
-<iframe src="/cathschrot.github.io/projects/project5/code.pdf" width="100%" height="600px"></iframe>
+<iframe src="/cathschrot.github.io/projects/project5/code5.pdf" width="100%" height="600px"></iframe>
