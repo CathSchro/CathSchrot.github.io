@@ -13,4 +13,4 @@ This data mining project used public data to prepared data for model building.  
 
 ### Project Code
 [Download the project presentation](/cathschrot.github.io/projects/project5/Increasing Graduation Rates Code.ipynb)
-<iframe src="/cathschrot.github.io/projects/project5/code.pdf" width="100%" 
+<iframe src="/cathschrot.github.io/projects/project5/code.pdf" width="100%" height="600px"></iframe>
